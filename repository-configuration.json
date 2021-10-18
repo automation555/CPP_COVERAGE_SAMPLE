@@ -7,7 +7,7 @@
 		{
 			"dataDir": "$WORKSPACE/temp",
 			"repository": {
-				"uid": "5403557beb7fee031f6e795870b0132d",
+				"uid": "b5d4481721ddc00733e35bed6e5f804c",
 				"projectName": "cwa",
 				"languages": [
 					"CPP"
