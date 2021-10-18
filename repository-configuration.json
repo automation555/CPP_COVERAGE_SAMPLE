@@ -13,7 +13,7 @@
 					"CPP"
 				],
 				"sources": {
-					"baseDir": "/var/jenkins_home/jobs/cpp_coverage_cicd_wrapper/workspace",
+					"baseDir": "/var/jenkins_home/jobs/cicdwrapper/workspace",
 					"exclusions": []
 				}
 			},
