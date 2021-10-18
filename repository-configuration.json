@@ -59,7 +59,7 @@
 								{
 									"name": "reportDir",
 									"type": "upload",
-									"value": "/var/jenkins_home/jobs/cpp_coverage_cicd_wrapper/workspace",
+									"value": "/var/jenkins_home/jobs/cicdwrapper/workspace",
 									"required": true
 								}
 							]
